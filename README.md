@@ -12,11 +12,11 @@
 
 **Tools:** Jupyter / JupyterLab, GitHub
 
-**Algorithm Category:** Regression
+**Algorithm Category:** Multivariate Regression
 
 **Purpose:** Data Cleaning, Apply Algorithm
 
-**Algorithm:** Multivariate Linear Regression
+**Algorithm:** Linear Regression, Polynomial Regression, Decision Tree Regression
 
 **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib
 
